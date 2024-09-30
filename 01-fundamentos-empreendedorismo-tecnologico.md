@@ -34,20 +34,19 @@
    
 5. Dissertativa: Explique a importância da validação de mercado no processo de empreendedorismo tecnológico e descreva duas técnicas que um empreendedor pode usar para validar sua ideia de negócio.
 
-  A validação de mercado é um passo crucial no processo de empreendedorismo tecnológico. Ela permite que o empreendedor verifique se sua ideia de negócio tem potencial real antes de investir tempo e recursos significativos no desenvolvimento completo do produto ou serviço. Eis duas técnicas eficazes para validação de mercado:
-Landing page de teste:
+     A validação de mercado é um passo crucial no processo de empreendedorismo tecnológico. Ela permite que o empreendedor verifique se sua ideia de negócio tem potencial real antes de investir tempo e recursos significativos no desenvolvimento completo       do produto ou serviço. Eis duas técnicas eficazes para validação de mercado:
 
-  Crie uma página web simples descrevendo seu produto/serviço
-  Inclua um formulário de captura de e-mails ou botão de pré-venda
-  Direcione tráfego através de anúncios online
-  Analise as taxas de conversão para medir o interesse
+   Landing page de teste:
+        Crie uma página web simples descrevendo seu produto/serviço
+        Inclua um formulário de captura de e-mails ou botão de pré-venda
+        Direcione tráfego através de anúncios online
+        Analise as taxas de conversão para medir o interesse
 
-Campanha de crowdfunding:
-
-  Lance uma campanha em plataformas como Kickstarter ou Indiegogo
-  Apresente seu conceito e ofereça recompensas
-  Observe se as pessoas estão dispostas a apoiar financeiramente
-  Use o feedback para refinar sua proposta
+   Campanha de crowdfunding:
+        Lance uma campanha em plataformas como Kickstarter ou Indiegogo
+        Apresente seu conceito e ofereça recompensas
+        Observe se as pessoas estão dispostas a apoiar financeiramente
+        Use o feedback para refinar sua proposta
   
 6. Verdadeiro ou Falso: No empreendedorismo tecnológico, o foco deve estar exclusivamente no desenvolvimento da tecnologia, deixando as considerações de mercado para depois.
 
